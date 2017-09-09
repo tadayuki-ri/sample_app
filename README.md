@@ -39,3 +39,8 @@ $ rails server
 
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
+
+
+
+
+メモ：13.4.4 本番環境での画像アップロード　に関してはスキップしました。
